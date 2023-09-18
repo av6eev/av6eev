@@ -49,6 +49,36 @@ _[ENG]_
 ## Projects / Проекты 👨‍💻
 ### Asteroids
 
+_[RU]_
+
+Билд игры (Windows, Android) находится в одноименном репозитории.
+
+Реализованные механики:
+- Система ввода, подстраивающаяся под платформу, на которой запущена игра.
+- Структура требований и наград (покупка новых кораблей; нарастающая сложность игры).
+- Изменение измерения игры (либо все в 2D, либо в 3D).
+- Сохранение баланса, купленных кораблей, лучших игр.
+- Структура спецификаций (ScriptableObjects) для наград, требований, кораблей, астероидов, сложностей игры.
+- Пулы объектов.
+
+_[ENG]_
+
+The game build (Windows, Android) is located in the repository with the same name.
+
+Implemented mechanics:
+- An input system that adapts to the platform on which the game is running.
+- Structure of requirements and rewards (purchase of new ships; increasing difficulty of the game).
+- Change the dimension of the game (either everything is 2D or 3D).
+- Saving balance, purchased ships, best games.
+- Structure of specifications (ScriptableObjects) for rewards, requirements, ships, asteroids, game difficulties.
+- Pools of objects.
+
+<img src="asteroids-main-menu.png" alt="" style="height: 576px; width: 1280px;"/>
+<img src="asteroids-2d-gameplay.jpg" alt="" style="height: 576px; width: 1280px;"/>
+<img src="asteroids-3d-gameplay.jpg" alt="" style="height: 576px; width: 1280px;"/>
+<img src="asteroids-shop.jpg" alt="" style="height: 576px; width: 1280px;"/>
+<img src="asteroids-history.jpg" alt="" style="height: 576px; width: 1280px;"/>
+
 ### educational-project-3
 
 _[RU]_
